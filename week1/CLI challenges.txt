@@ -22,5 +22,4 @@ second message
  
 echo -n "some text here" >> file.txt
 
-or
-vim file-name
+

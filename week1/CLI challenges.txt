@@ -2,7 +2,7 @@ Q1.How do I create a hidden file or folder? How do I display it in the CLI?
 
 To make that folder/file hidden, add a dot (.) at the beginning of the name.
 for example:
-mkdir .file-name
+mkdir .folder-name
 touch .file-name.txt
 
 for display it:

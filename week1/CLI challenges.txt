@@ -5,8 +5,8 @@ for example:
 mkdir .folder-name
 touch .file-name.txt
 
-for display it:
-ls -a file-name
+to list them:
+ls -a 
 
 
 Q2.How do I create multiple nested directories, like /c/Users/myusername/these/folders/are/just/for/fun?
